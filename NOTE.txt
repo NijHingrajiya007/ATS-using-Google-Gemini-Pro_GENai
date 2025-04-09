@@ -1,0 +1,6 @@
+ATSlocal.py (not effective):
+- i have took llama 2 model(downloaded) from Huggingface but not giving proper answer
+
+
+ATSwithAPI.py (Worked):
+- i have took the replica API(from the replica website) of LLAMA 2 model.

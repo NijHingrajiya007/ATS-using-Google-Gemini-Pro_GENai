@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+python-dotenv
+langchain
+sentence-transformers
+uvicorn
+ctransformers
+python-box
+replicate
